@@ -69,7 +69,7 @@ KiB Swap:  2097148 total,  2097148 free,        0 used.  3118800 avail Mem**
 
 load average后面的三个值总和除以三大于0.7的情况下说明负载比较大
 
-主要交互：P（以CPU排序）、M（以内存排序） 、K（杀死某个进程)、
+主要交互：P（以CPU排序）、M（以内存排序） 、K（杀死某个进程)、u（某个用户)
 
 
 ### 监控网络状态:netstat -anp | more
